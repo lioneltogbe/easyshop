@@ -81,7 +81,7 @@ Puis ouvrir `http://127.0.0.1:8000` dans un navigateur.
 Le projet utilise des rôles et permissions pour limiter l’accès aux sections critiques :
 - `admin`
 - `manager`
-- 'magasinier'
+- `magasinier`
 - `comptable`
 - `vendeur`
 
