@@ -29,8 +29,7 @@ L’application prend en charge la gestion des permissions, la génération de f
 
 1. Cloner le dépôt :
    ```powershell
-   git clone https://github.com/lionel/NOM_DU_REPO.git
-   cd "easyShop versiopn 2"
+   git clone https://github.com/lioneltogbe/easyshop.git
    ```
 
 2. Installer les dépendances PHP :
@@ -58,11 +57,6 @@ L’application prend en charge la gestion des permissions, la génération de f
 7. Lancer les migrations :
    ```powershell
    php artisan migrate
-   ```
-
-8. Compiler les assets :
-   ```powershell
-   npm run build
    ```
 
 ## Exécution
